@@ -3928,7 +3928,7 @@ This happens when:
 <!-- YAML
 added: v0.0.2
 changes:
-  - version: REPLACEME
+  - version: v14.0.0
     pr-url: https://github.com/nodejs/node/pull/31030
     description: The `buffer` parameter won't coerce unsupported input to
                  strings anymore.
@@ -3989,7 +3989,7 @@ the end of the file.
 <!-- YAML
 added: v0.11.5
 changes:
-  - version: REPLACEME
+  - version: v14.0.0
     pr-url: https://github.com/nodejs/node/pull/31030
     description: The `string` parameter won't coerce unsupported input to
                  strings anymore.
@@ -4048,7 +4048,7 @@ details.
 <!-- YAML
 added: v0.1.29
 changes:
-  - version: REPLACEME
+  - version: v14.0.0
     pr-url: https://github.com/nodejs/node/pull/31030
     description: The `data` parameter won't coerce unsupported input to
                  strings anymore.
@@ -4138,7 +4138,7 @@ to contain only `', World'`.
 <!-- YAML
 added: v0.1.29
 changes:
-  - version: REPLACEME
+  - version: v14.0.0
     pr-url: https://github.com/nodejs/node/pull/31030
     description: The `data` parameter won't coerce unsupported input to
                  strings anymore.
@@ -4170,7 +4170,7 @@ this API: [`fs.writeFile()`][].
 <!-- YAML
 added: v0.1.21
 changes:
-  - version: REPLACEME
+  - version: v14.0.0
     pr-url: https://github.com/nodejs/node/pull/31030
     description: The `buffer` parameter won't coerce unsupported input to
                  strings anymore.
@@ -4200,7 +4200,7 @@ this API: [`fs.write(fd, buffer...)`][].
 <!-- YAML
 added: v0.11.5
 changes:
-  - version: REPLACEME
+  - version: v14.0.0
     pr-url: https://github.com/nodejs/node/pull/31030
     description: The `string` parameter won't coerce unsupported input to
                  strings anymore.
@@ -4553,7 +4553,7 @@ This function does not work on AIX versions before 7.1, it will resolve the
 <!-- YAML
 added: v10.0.0
 changes:
-  - version: REPLACEME
+  - version: v14.0.0
     pr-url: https://github.com/nodejs/node/pull/31030
     description: The `buffer` parameter won't coerce unsupported input to
                  buffers anymore.
@@ -4590,7 +4590,7 @@ the end of the file.
 <!-- YAML
 added: v10.0.0
 changes:
-  - version: REPLACEME
+  - version: v14.0.0
     pr-url: https://github.com/nodejs/node/pull/31030
     description: The `string` parameter won't coerce unsupported input to
                  strings anymore.
@@ -4626,7 +4626,7 @@ the end of the file.
 <!-- YAML
 added: v10.0.0
 changes:
-  - version: REPLACEME
+  - version: v14.0.0
     pr-url: https://github.com/nodejs/node/pull/31030
     description: The `data` parameter won't coerce unsupported input to
                  strings anymore.
@@ -5231,7 +5231,7 @@ The `atime` and `mtime` arguments follow these rules:
 <!-- YAML
 added: v10.0.0
 changes:
-  - version: REPLACEME
+  - version: v14.0.0
     pr-url: https://github.com/nodejs/node/pull/31030
     description: The `data` parameter won't coerce unsupported input to
                  strings anymore.

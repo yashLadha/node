@@ -596,7 +596,7 @@ warning will be written to stderr instead.
 <!-- YAML
 added: v11.8.0
 changes:
-  - version: REPLACEME
+  - version: v14.0.0
     pr-url: https://github.com/nodejs/node/pull/32242
     description: This option is no longer considered experimental.
   - version: v12.0.0
@@ -611,7 +611,7 @@ Location at which the report will be generated.
 <!-- YAML
 added: v11.8.0
 changes:
-  - version: REPLACEME
+  - version: v14.0.0
     pr-url: https://github.com/nodejs/node/pull/32242
     description: This option is no longer considered experimental.
   - version: v12.0.0
@@ -644,7 +644,7 @@ error.
 <!-- YAML
 added: v11.8.0
 changes:
-  - version: REPLACEME
+  - version: v14.0.0
     pr-url: https://github.com/nodejs/node/pull/32242
     description: This option is no longer considered experimental.
   - version: v12.0.0
@@ -661,7 +661,7 @@ specified through `--report-signal`.
 <!-- YAML
 added: v11.8.0
 changes:
-  - version: REPLACEME
+  - version: v14.0.0
     pr-url: https://github.com/nodejs/node/pull/32242
     description: This option is no longer considered experimental.
   - version: v12.0.0
@@ -677,7 +677,7 @@ Default signal is `SIGUSR2`.
 <!-- YAML
 added: v11.8.0
 changes:
-  - version: REPLACEME
+  - version: v14.0.0
     pr-url: https://github.com/nodejs/node/pull/32242
     description: This option is no longer considered experimental.
   - version: v12.0.0

@@ -665,7 +665,7 @@ $ bash -c 'exec -a customArgv0 ./node'
 <!-- YAML
 added: v7.1.0
 changes:
-  - version: REPLACEME
+  - version: v14.0.0
     pr-url: https://github.com/nodejs/node/pull/30165
     description: The object no longer accidentally exposes native C++ bindings.
 -->
@@ -1784,7 +1784,7 @@ relied upon to exist.
 <!-- YAML
 added: v11.8.0
 changes:
-  - version: REPLACEME
+  - version: v14.0.0
     pr-url: https://github.com/nodejs/node/pull/32242
     description: This API is no longer considered experimental.
 -->
@@ -1799,7 +1799,7 @@ reports for the current process. Additional documentation is available in the
 <!-- YAML
 added: v11.12.0
 changes:
-  - version: REPLACEME
+  - version: v14.0.0
     pr-url: https://github.com/nodejs/node/pull/32242
     description: This API is no longer considered experimental.
 -->
@@ -1818,7 +1818,7 @@ console.log(`Report directory is ${process.report.directory}`);
 <!-- YAML
 added: v11.12.0
 changes:
-  - version: REPLACEME
+  - version: v14.0.0
     pr-url: https://github.com/nodejs/node/pull/32242
     description: This API is no longer considered experimental.
 -->
@@ -1837,7 +1837,7 @@ console.log(`Report filename is ${process.report.filename}`);
 <!-- YAML
 added: v11.8.0
 changes:
-  - version: REPLACEME
+  - version: v14.0.0
     pr-url: https://github.com/nodejs/node/pull/32242
     description: This API is no longer considered experimental.
 -->
@@ -1880,7 +1880,7 @@ console.log(`Report on fatal error: ${process.report.reportOnFatalError}`);
 <!-- YAML
 added: v11.12.0
 changes:
-  - version: REPLACEME
+  - version: v14.0.0
     pr-url: https://github.com/nodejs/node/pull/32242
     description: This API is no longer considered experimental.
 -->
@@ -1898,7 +1898,7 @@ console.log(`Report on signal: ${process.report.reportOnSignal}`);
 <!-- YAML
 added: v11.12.0
 changes:
-  - version: REPLACEME
+  - version: v14.0.0
     pr-url: https://github.com/nodejs/node/pull/32242
     description: This API is no longer considered experimental.
 -->
@@ -1915,7 +1915,7 @@ console.log(`Report on exception: ${process.report.reportOnUncaughtException}`);
 <!-- YAML
 added: v11.12.0
 changes:
-  - version: REPLACEME
+  - version: v14.0.0
     pr-url: https://github.com/nodejs/node/pull/32242
     description: This API is no longer considered experimental.
 -->
@@ -1933,7 +1933,7 @@ console.log(`Report signal: ${process.report.signal}`);
 <!-- YAML
 added: v11.8.0
 changes:
-  - version: REPLACEME
+  - version: v14.0.0
     pr-url: https://github.com/nodejs/node/pull/32242
     description: This API is no longer considered experimental.
 -->

@@ -1789,7 +1789,7 @@ changes:
     pr-url: https://github.com/nodejs/node/pull/22795
     description: Add `autoDestroy` option to automatically `destroy()` the
                  stream when it emits `'finish'` or errors.
-  - version: REPLACEME
+  - version: v14.0.0
     pr-url: https://github.com/nodejs/node/pull/30623
     description: Change `autoDestroy` option default to `true`.
 -->
@@ -2069,7 +2069,7 @@ changes:
     pr-url: https://github.com/nodejs/node/pull/22795
     description: Add `autoDestroy` option to automatically `destroy()` the
                  stream when it emits `'end'` or errors.
-  - version: REPLACEME
+  - version: v14.0.0
     pr-url: https://github.com/nodejs/node/pull/30623
     description: Change `autoDestroy` option default to `true`.
 -->
